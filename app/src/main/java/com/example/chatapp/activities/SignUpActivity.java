@@ -41,7 +41,7 @@ public class SignUpActivity extends AppCompatActivity {
 
     }
 
-    //#3 11 min 12 sec
+    //#3 11 min 12 s
 
     private Boolean isValidSignUpDetails() {
         if(encodedImage == null) {
